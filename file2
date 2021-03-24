@@ -1,6 +1,6 @@
-Welcome to my world
-1
-2
-3
-java
-jenkins
+i#include <stdio.h>
+int main() {
+   // printf() displays the string inside quotation
+   printf("Hello, World!");
+   return 0;
+}
